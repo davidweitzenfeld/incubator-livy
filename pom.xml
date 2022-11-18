@@ -104,7 +104,7 @@
     <scala.version>${scala-2.11.version}</scala.version>
     <scalatest.version>2.2.4</scalatest.version>
     <scalatra.version>2.3.0</scalatra.version>
-    <java.version>1.8</java.version>
+    <java.version>11</java.version>
     <test.redirectToFile>true</test.redirectToFile>
     <execution.root>${user.dir}</execution.root>
     <spark.home>${execution.root}/dev/spark</spark.home>
@@ -1050,7 +1050,7 @@
         <spark.scala-2.11.version>2.4.3</spark.scala-2.11.version>
         <spark.version>${spark.scala-2.11.version}</spark.version>
         <netty.spark-2.11.version>4.1.17.Final</netty.spark-2.11.version>
-        <java.version>1.8</java.version>
+        <java.version>11</java.version>
         <py4j.version>0.10.7</py4j.version>
         <spark.bin.download.url>
           https://archive.apache.org/dist/spark/spark-2.4.3/spark-2.4.3-bin-hadoop2.7.tgz
